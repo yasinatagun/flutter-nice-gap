@@ -1,0 +1,22 @@
+name: flutter_nice_gap
+description: A simple and elegant gap widget for Flutter that automatically adapts to its parent's direction.
+version: 1.0.0
+homepage: https://github.com/yasinatagun/flutter_nice_gap
+repository: https://github.com/yasinatagun/flutter_nice_gap
+issue_tracker: https://github.com/yasinatagun/flutter_nice_gap/issues
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+ 
+ 
